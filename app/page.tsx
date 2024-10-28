@@ -278,7 +278,7 @@ const AnalysisHome = () => {
         />
 
         {/* === Main Page Content Container === */}
-        <div className="max-w-5xl mx-auto p-6">
+        <div className="max-w-5xl mx-auto p-8">
           {/* Header */}
           <Header
             title="Build The Right Team With Data"
